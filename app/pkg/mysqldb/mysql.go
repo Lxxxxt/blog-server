@@ -1,0 +1,3 @@
+package mysqldb
+
+func InitMySqlServer() {}
